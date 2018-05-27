@@ -1,0 +1,47 @@
+letra A
+Ant
+Apple
+
+letra B
+Boy
+Bee
+
+letra C
+Car
+Cat
+
+letra D
+Doctor
+Duck
+
+letra E
+Egg
+Eight
+
+letra F
+Flower
+Frog
+
+letra G
+Guitar
+Girl
+
+letra H
+House
+Heart
+
+letra I
+Icecream
+Ink
+
+letra J
+Jelly
+Juice
+
+letra L
+lamb
+log
+
+letra M
+Mouse
+Mirror
