@@ -4,6 +4,15 @@
         <file>qtquickcontrols2.conf</file>
         <file>game.qml</file>
         <file>img/fondo1.jpg</file>
-        <file>item.qml</file>
+        <file>Elem.qml</file>
+        <file>img/apple.png</file>
+        <file>img/bee.png</file>
+        <file>img/car.png</file>
+        <file>snd/car.wav</file>
+        <file>snd/bee.wav</file>
+        <file>snd/apple.wav</file>
+        <file>img/duck.png</file>
+        <file>snd/duck.wav</file>
+        <file>snd/back.wav</file>
     </qresource>
 </RCC>

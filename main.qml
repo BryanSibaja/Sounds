@@ -4,8 +4,8 @@ import QtQuick.Controls 2.2
 ApplicationWindow {
     id: window
     visible: true
-    width: 640
-    height: 480
+    width: 1024
+    height: 574
     title: qsTr("Sounds")
     StackView {
         id: stackView
